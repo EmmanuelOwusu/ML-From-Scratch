@@ -21,6 +21,8 @@ This folder contains implementations from scratch of some traditional machine le
 
 * In Linear regression, we predict the value of continuous variables
 
+* Least square estimation method is used for estimation of accuracy.
+
 ## Logistic Regression 
 
 * Logistic Regression is used to predict the categorical dependent variable using a given set of independent variables.
@@ -28,3 +30,5 @@ This folder contains implementations from scratch of some traditional machine le
 * Logistic regression is used for solving Classification problems.
 
 * In logistic Regression, we predict the values of categorical variables.
+
+* Maximum likelihood estimation method is used for estimation of accuracy.
