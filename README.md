@@ -19,9 +19,12 @@ This folder contains implementations from scratch of some traditional machine le
 
 * Linear Regression is used for solving Regression problem.
 
+* In Linear regression, we predict the value of continuous variables
 
 ## Logistic Regression 
 
 * Logistic Regression is used to predict the categorical dependent variable using a given set of independent variables.
 
 * Logistic regression is used for solving Classification problems.
+
+* In logistic Regression, we predict the values of categorical variables.
